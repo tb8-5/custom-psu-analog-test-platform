@@ -9,7 +9,7 @@
 **Design tools:** KiCad 9 and LTspice
 **Test equipment:** Tektronix oscilloscope, Keithley 2231A-30-3 bench supply, DMM, isolated 12 VAC transformer supply
 
-![Assembled 12VAC dual-output buck power supply PCB](04_bring_up/board-assembled-top.jpg)
+![Assembled 12VAC dual-output buck power supply PCB](04_bring_up/board-assembled-horizontal.jpg)
 
 ## Overview
 
